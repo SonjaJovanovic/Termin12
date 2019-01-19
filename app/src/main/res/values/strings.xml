@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Termin12</string>
+    <string name="dugme1_tekst">Prvo dugme</string>
+    <string name="dugme2">Drugo dugme</string>
+    <string name="dugme3">Trece dugme</string>
+    <string name="dugmeKontakt">kontakt</string>
+    <string name="buttonThirdActivity">Third Activity</string>
+    <string name="cameraButton">Camera</string>
+</resources>
